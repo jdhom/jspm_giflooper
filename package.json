@@ -1,0 +1,14 @@
+{
+  "jspm": {
+    "directories": {
+      "lib": ".",
+      "packages": "jspm_packages"
+    },
+    "dependencies": {
+      "jsonp": "npm:jsonp@^0.1.0"
+    }
+  },
+  "devDependencies": {
+    "live-server": "^0.7.0"
+  }
+}
