@@ -1,7 +1,7 @@
 # jspm_giflooper
 ========
 
-complete ripoff of [Glen Maddern's excellent jspm introduction video](https://www.youtube.com/watch?v=iukBMY4apvI). Highly recommend you want this ~10m video. This is mostly a jspm, system.js, traceur learning exercise for moi.
+complete ripoff of [Glen Maddern's excellent jspm introduction video](https://www.youtube.com/watch?v=iukBMY4apvI). Highly recommend you watch this ~10m video. This is mostly a jspm, system.js, traceur learning exercise for moi.
 
 ## Build
 ### Prereqs...
